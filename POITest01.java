@@ -1,4 +1,4 @@
-package com.fhqb.poi;
+﻿package com.fhqb.poi;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -12,7 +12,9 @@ import org.apache.poi.hssf.usermodel.HSSFWorkbook;
  * 第一个简单的POI编程
  * @author zhangyu
  */
+//..............................................................
 public class POITest01 {
+
 
 	public static void main(String[] args) throws IOException {
 		
