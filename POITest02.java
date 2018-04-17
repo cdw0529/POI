@@ -1,4 +1,4 @@
-package com.atguigu.poi;
+package com.fhqb.poi;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
